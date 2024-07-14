@@ -43,3 +43,6 @@ Welcome to the Fitness Tracker App! This app is designed to help you monitor and
 - Play sounds in the background while using other app features
 - Customize sound playlists for different moods
 
+
+<a href="https://www.figma.com/proto/UZVO7AUNkV6BM5jgq6a3L9/Fitness-Tracker?t=6oyAlendyz2diQPf-1">Click here</a>
+
